@@ -1,2 +1,1 @@
-# hello-world
-Project 1 - hello world
+# Dynamic Web Applications Fall 2017
